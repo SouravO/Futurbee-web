@@ -69,7 +69,7 @@ body {
 #cCarousel #cCarousel-inner {
   display: flex;
   position: absolute;
-  transition: 0.3s ease-in-out;
+  transition: 0.30s ease-in-out;
   gap: 10px;
   left: 0px;
 }
